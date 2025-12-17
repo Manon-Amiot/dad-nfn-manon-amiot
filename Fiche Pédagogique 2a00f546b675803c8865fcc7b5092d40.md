@@ -78,7 +78,8 @@ J’aurais aimé avoir plus de temps, surtout pour créer mes assets moi-même. 
 
 **Lundi 3 Novembre :**
 
-En premier lieu, j’ai commencé à faire des recherches sur le 11 septembre 2001, notamment des images, vidéos et récits, pour pouvoir comprendre l’ambiance globale de l’événement et avoir des informations réelles, notamment celles du temps entre chaque événement (décollage de l’avion, détournement, impact). J'ai trouvé des images comme l'intérieur des tours et des bureaux. ![Bureau du world trades center Tour 1](<Capture d'écran 2025-11-07 132230.png>)
+En premier lieu, j’ai commencé à faire des recherches sur le 11 septembre 2001, notamment des images, vidéos et récits, pour pouvoir comprendre l’ambiance globale de l’événement et avoir des informations réelles, notamment celles du temps entre chaque événement (décollage de l’avion, détournement, impact). J'ai trouvé des images comme l'intérieur des tours et des bureaux. 
+![Bureau du world trades center Tour 1](<src/Capture d'écran 2025-11-04 141453.png>)
 ![Bureau 2 du world trades center](<Capture d'écran 2025-11-07 132403.png>)
 
 **Mardi 4 et vendredi 7 Novembre :** 
