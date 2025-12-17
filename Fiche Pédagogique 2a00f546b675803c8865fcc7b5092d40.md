@@ -116,7 +116,7 @@ Le vendredi j'ai ajouter toute les scène dans Unity, je me suis ensuite retrouv
 
 **Lundi 1er et Mardi 2 décembre :** 
 
-En voulant expérimenter de façon plus facile, j'ai essayer de coder sur des éléments simple (cube et canvas) les scripts qui serait utiliser dans mon jeux. J'ai donc fait un script qui permet de faire rallentir l'animation d'un objet lorsqu'il entre dans le champs de la caméra. Pour cela j'ai créer un gamertag et j'ai fait en sorte que quand l'objet avec le gamertag pénètre le chant de vision que j'ai définis, si celui-ci à une animation, il rallentis. Voici le repository de mon expérimentation : https://github.com/Manon-Amiot/Experimentations_project_911
+En voulant expérimenter de façon plus facile, j'ai essayer de coder sur des éléments simple (cube et canvas) les scripts qui serait utiliser dans mon jeux. J'ai donc fait un script qui permet de faire rallentir l'animation d'un objet lorsqu'il entre dans le champs de la caméra. Pour cela j'ai créer un gamertag et j'ai fait en sorte que quand l'objet avec le gamertag pénètre le chant de vision que j'ai définis, si celui-ci à une animation, il rallentis. Voici le repository de mon expérimentation : https://github.com/Manon-Amiot/Experimentations_project_911.git
 
 Et j'ai ensuite essayer de coder un effet de bruit visuel pour faire ma transition à l'aide d'un canvas. J'ai chercher à créer un canvas transparent et ensuite j'ai cherché à coder une transition qui en 20 seconde créer une nuée de pixel noir qui s'augmente pour créer un fond noir de transition.
 Puis ensuite je me suis interressé au timer, je voulais que le timer reste sur la caméra tous le long du jeu, j'ai donc créer un canvas avec une heure de marquer, j'ai coder l'écriture pour qu'elle passe de 8H à 8h46 en 20 secondes et qu'ensuite elle revienne à 0. 
@@ -124,4 +124,4 @@ J'ai voulu ensuite l'ajouter dans mes scènes, sauf que les transition ne marcha
 
 **Vendredi 5 décembre :**
 
-Vendredi matin en même temps que la préparation pour mon accrochage, J'ai essayer d'exporter mon projet, ce qui à été plus compliquer que prévu. Mais après quelques temps j'ai réussi à exporter mon projet et donc le voici : https://github.com/Manon-Amiot/8_heures_46_minutes_Projet_Manon_AMIOT
+Vendredi matin en même temps que la préparation pour mon accrochage, J'ai essayer d'exporter mon projet, ce qui à été plus compliquer que prévu. Mais après quelques temps j'ai réussi à exporter mon projet et donc le voici : https://github.com/Manon-Amiot/8_heures_46_minutes_Projet_Manon_AMIOT.git
