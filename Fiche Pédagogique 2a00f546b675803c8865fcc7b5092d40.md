@@ -79,8 +79,8 @@ J’aurais aimé avoir plus de temps, surtout pour créer mes assets moi-même. 
 **Lundi 3 Novembre :**
 
 En premier lieu, j’ai commencé à faire des recherches sur le 11 septembre 2001, notamment des images, vidéos et récits, pour pouvoir comprendre l’ambiance globale de l’événement et avoir des informations réelles, notamment celles du temps entre chaque événement (décollage de l’avion, détournement, impact). J'ai trouvé des images comme l'intérieur des tours et des bureaux. 
-![Bureau du world trades center Tour 1](<src/Capture d'écran 2025-11-04 141453.png>)
-![Bureau 2 du world trades center](<Capture d'écran 2025-11-07 132403.png>)
+![Bureau WTC](src/Bureau1.png)
+![Bureau WTC](src/Bureau2.png)
 
 **Mardi 4 et vendredi 7 Novembre :** 
 
@@ -92,14 +92,14 @@ Pour le scénario, j'ai commencé par imaginer quatre scènes. Je voulais jongle
 - La partie des pompiers, qui arrive après l'incident (que j'ai retirée après réflexion, de peur de manquer de temps).
 Je voulais qu'on passe d'une scène à une autre en voyant des choses précises avant l'impact, mais voyant que je n'arriverais pas à tout réaliser dans le temps imparti, j'ai seulement fait une boucle avec les trois scènes principales : celle où l'avion est sur le point de se crasher, celle de la personne dans le bureau qui voit l'avion entrer dans la tour, et celle de la personne en bas qui assiste impuissante à la scène où l'avion se crashe dans la tour.
 
-![Branchage 1](<Capture d'écran 2025-11-07 132230.png>)
+![Branchage 1](src/Twine1.png)
 
-![Branchage 2](<Capture d'écran 2025-11-07 132403.png>)
+![branchage 2](src/Twine2.png)
 
 **Lundi 24, Mardi 25 novembre :** 
 
 J’ai récupéré mes éléments que j'avais utilisés pour le Workshop VR avec Florent Deloison. J'ai aussi cherché d'autres assets et je suis tombé sur un asset entier du World Trade Center avec les avions, la ville en dessous et les avions. Cela m'a beaucoup aidé, car je n'arrivais pas à trouver d'asset d'avion de type Boeing 767 et je voulais quelque chose le plus fidèle possible.
-![My Last Day At work open space](<Capture d'écran 2025-11-19 153156.png>)
+![My last day at work](src/Openspace2.png)
 
 J’ai récupéré pour la scène du bureau un open space que j’avais créé pour un autre projet en VR. Je l'ai modifié pour qu’il corresponde au mieux au bureau du World Trade Center.
 
@@ -115,7 +115,7 @@ Le vendredi, j'ai ajouté toutes les scènes dans Unity. Je me suis ensuite retr
 **Lundi 1er et Mardi 2 décembre :** 
 
 En voulant expérimenter de façon plus facile, j'ai essayé de coder sur des éléments simples (cube et canvas) les scripts qui seraient utilisés dans mon jeu. J'ai donc fait un script qui permet de ralentir l'animation d'un objet lorsqu'il entre dans le champ de la caméra. Pour cela, j'ai créé un gamertag et j'ai fait en sorte que, lorsque l'objet avec ce gamertag pénètre le champ de vision que j'ai défini, si celui-ci a une animation, elle ralentit. Voici mon expérimentation : [Expérimentations Unity Slowmotion et Transition.](Experimentations_huit_heures_quarente_six_minutes) (Pour le slow motion, il est visible grâce à l'ombre : on sait qu'il ralentit, car après l'avoir vu, quand il sort de notre champ de vision, on voit son ombre ralentir.)
-Et j'ai ensuite essayé de coder un effet de bruit visuel. ![Bruit transition visuelle](<Capture d'écran 2025-12-01 115906.png>)
+Et j'ai ensuite essayé de coder un effet de bruit visuel. ![Transition bruit](src/Transition1.png)
  Pour faire ma transition à l'aide d'un canvas, j'ai cherché à créer un canvas transparent, puis à coder une transition qui, en 20 secondes, crée une nuée de pixels noirs qui s'agrandit pour former un fond noir de transition.
 
 Ensuite, je me suis intéressé au timer. Je voulais que le timer reste sur la caméra tout au long du jeu. J'ai donc créé un canvas avec une heure affichée et codé l’écriture pour qu'elle passe de 8h à 8h46 en 20 secondes, avant de revenir à 0.
@@ -132,4 +132,4 @@ Le jeudi matin, j'ai essayé d'ajouter mes expérimentations que j'avais faites 
 
 Le vendredi matin, en même temps que la préparation pour mon accrochage, j'ai essayé d'exporter mon projet avec l'aide de Robin, ce qui a été plus compliqué que prévu. Mais après un certain temps, j'ai réussi à exporter mon projet, et donc le voici : [Projet final](8_heures_46_minutes_Projet_Manon_AMIOT)
 
-Pour mon accrochage, je voulais imprimer une très grande image des bureaux avec l'heure qui défile, comme dans mon animation de timer. Je voulais poser le casque devant, afin d’attirer le joueur à comprendre ce qu'il y a derrière cette simple photo de bureau et cette heure qui défile. Je voulais que le joueur, en ressortant du jeu, soit encore une fois confronté au jeu par cette image. J'ai choisi de mettre une image un peu sombre et vieillie, pixellisée, pour montrer l'ambiance du jeu, mais aussi pour faire le lien avec l'année 2001. ! ![Accrochage de l'image](DSCF3702.JPG)![présentation du projet](DSCF3732.JPG)
+Pour mon accrochage, je voulais imprimer une très grande image des bureaux avec l'heure qui défile, comme dans mon animation de timer. Je voulais poser le casque devant, afin d’attirer le joueur à comprendre ce qu'il y a derrière cette simple photo de bureau et cette heure qui défile. Je voulais que le joueur, en ressortant du jeu, soit encore une fois confronté au jeu par cette image. J'ai choisi de mettre une image un peu sombre et vieillie, pixellisée, pour montrer l'ambiance du jeu, mais aussi pour faire le lien avec l'année 2001. ![Accrochage image](src/Accrochage1.JPG)![Présentation du projet](src/Accrochage2.JPG)
