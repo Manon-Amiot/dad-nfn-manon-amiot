@@ -78,50 +78,53 @@ J’aurais aimé avoir plus de temps, surtout pour créer mes assets moi-même. 
 
 **Lundi 3 Novembre :**
 
-En premier lieu, j’ai commencer à faire des recherches sur le 11 septembre 2001 notamment des images, vidéos, et des récits pour pouvoir comprendre l’ambiance global de l’évènement et avoir des informations réelle notamment celle du temps entre chaque évènement (décollage de l’avion, détournement, impact). Ensuite je me suis décidé à créer à l’origine 4 scènes pour mon jeu. j’ai ensuite écrit le scénario avec quel scène va vers quel autres et comment. Il y avait à l’origine la scène du bureau, de l’avion, du pompier et du civil en bas de l’immeuble. J’ai choisi de retirer la partie du pompier car lui n’as pas vécu la scène au moment même et créer de l’incohérence dans le projet mais il pourrait par la suite être développer pour être intégrer dans le projet.
+En premier lieu, j’ai commencer à faire des recherches sur le 11 septembre 2001 notamment des images, vidéos, et des récits pour pouvoir comprendre l’ambiance global de l’évènement et avoir des informations réelle notamment celle du temps entre chaque évènement (décollage de l’avion, détournement, impact). J'ai trouver des images comme l'intérieur des tours et les images des bureaux. ![Bureau du world trades center Tour 1](<Capture d'écran 2025-11-07 132230.png>)
+![Bureau 2 du world trades center](<Capture d'écran 2025-11-07 132403.png>)
 
 **Mardi 4 et vendredi 7 Novembre :** 
 
 Ensuite j’ai créer un scénario sur Twine qui permet de montrer comment on passe d’une scène à une autre avec les notions de temps réelle de l’évènement. 
+Pour le scénario j'ai commencer par imaginer quatres scène, je voulais jongler entre les scènes : 
+- le bureau qui permet de se projeter dans un des bureau d'une des deux tour
+- L'avion dans lequel on ne fais que ressentir les secousses
+- Le bas des immeubles où l'on vois la scène en étant impuissant
+- (Et la partie des pompier qui arrive après l'incident) J'ai retiré cette partie après réflexion de peur de manquer de temps. 
+
+Je voulais qu'on passe d'une scène à une autre en voyant des choses précises avant l'impact mais voyant que je n'arriverais pas à tout réaliser dans le temps impartie, j'ai seulement fais une boucle avec les trois scène pricipale, celle où l'avion est sur le point de se crasher, celle de de la personne dans le bureau qui voit l'avion entrer dans la tour et celle de la personne en bas qui assiste impuissante à la scène où l'avion se crash dans la tour. 
 
 ![Image du branchage sur twine qui montre le passage d'une scène à une autre.](<src/Capture d'écran 2025-11-04 141453.png>)
 
-![a modifier+](<src/Capture d'écran 2025-11-07 112227.png>)
-
-Grâce à mon plan je sais maintenant comment jongler entre les scène de mon jeu.
+![Deuxième branchage](<src/Capture d'écran 2025-11-07 112227.png>)
 
 **Lundi 24, Mardi 25 novembre :** 
 
-J’ai ensuite créer les principales scènes sur Blender, grâce à des photos pour essayer d’être réaliste à la scène dans le but de documenté au mieux l’événement. 
-
-![Capture d'écran 2025-11-07 132230.png](Capture_dcran_2025-11-07_132230.png)
-
-![Capture d'écran 2025-11-07 132415.png](Capture_dcran_2025-11-07_132415.png)
-
-Images des bureaux du World Trade Center prise d’une vidéo de présentation des bureau. 
+J’ai récuperer mes éléments que j'avais utiliser pour le Workshop VR avec Florent Deloison, j'ai aussi chercher d'autres assets et je suis tomber sur un asset entier du World Trades Center avec les avions, la ville en dessous et les avions. Ce qui m'as beaucoup aider car je n'arrivais pas à trouver d'asset d'avion de type Boeing 767 et je voulais quelque chose le plus fidèle possible.
+![Image du jeu My Last Day at Work](<Capture d'écran 2025-11-19 153156.png>)
 
 J’ai récupérer pour la scène du bureau un open space que j’avais créer pour un autre projet en VR. Je le modifie pour qu’il corresponde au mieux au bureau du World Trade Center. 
 
-![Capture d'écran 2025-11-19 153156.png](Capture_dcran_2025-11-19_153156.png)
+J'ai essayer de recréer une rue dans laquel on peux voir les avions depuis le bas des immeubles. 
 
-Image de l’open space pour le projet My Last day At Work.
-Par la suite, j'ai trouvé des assets d'intérieur d'avion que j'ai modifier pour correspondre à ce que j'avais besoin pour la scène de l'avion. Puisque le personnage est static et ne peux pas bouger sur l'avion je me suis permise de ne pas créer l'entièreté de l'avion mais seulement une petite partie. 
-
-Finalement peu après j'ai trouver un asset des Tours Jumelles ainsi que les avions et la ville de New York.  
+Et j'ai ajouter des sièges dans l'avion. 
 
 **Vendredi 28 Novembre :** 
 
-Le vendredi j'ai ajouter toute les scène dans Unity, je me suis ensuite retrouver en difficultés avec les assets que j'avais télécharger, ils étaient parfois mal rangés et peu fonctionnel (les avions par exemples n'étaient pas des blocs joints en une seule pièces, c'était un ensembles de petits module) ce qui m'as fait perdre énormément de temps. Ne voulant pas perdre plus de temps, j'ai laisser les assets que j'avais trouver comme ils étaient même si il y a beaucoup d'incohérence et que si j'avais pu faire moi-même tous mes éléments, j'aurais pu avoir quelques chose de visuellement plus intéressant et plus propre. J'ai aussi créer mes animations d'avions. 
+Le vendredi j'ai ajouter toute les scène dans Unity, je me suis ensuite retrouver en difficultés avec les assets que j'avais télécharger, ils étaient parfois mal rangés et peu fonctionnel (les avions par exemples n'étaient pas des blocs joints en une seule pièces, c'était un ensembles de petits module) ce qui m'as fait perdre énormément de temps. Ne voulant pas perdre plus de temps, j'ai laisser les assets que j'avais trouver comme ils étaient même si il y a beaucoup d'incohérence et que si j'avais pu faire moi-même tous mes éléments, j'aurais pu avoir quelques chose de visuellement plus intéressant et plus propre. J'ai aussi créer mes animations d'avions.
 
 
 **Lundi 1er et Mardi 2 décembre :** 
 
-En voulant expérimenter de façon plus facile, j'ai essayer de coder sur des éléments simple (cube et canvas) les scripts qui serait utiliser dans mon jeux. J'ai donc fait un script qui permet de faire rallentir l'animation d'un objet lorsqu'il entre dans le champs de la caméra. Pour cela j'ai créer un gamertag et j'ai fait en sorte que quand l'objet avec le gamertag pénètre le chant de vision que j'ai définis, si celui-ci à une animation, il rallentis. Voici le repository de mon expérimentation : [Expérimentations Unity Slowmotion et Transition.](Experimentations_huit_heures_quarente_six_minutes)
+En voulant expérimenter de façon plus facile, j'ai essayer de coder sur des éléments simple (cube et canvas) les scripts qui serait utiliser dans mon jeux. J'ai donc fait un script qui permet de faire rallentir l'animation d'un objet lorsqu'il entre dans le champs de la caméra. Pour cela j'ai créer un gamertag et j'ai fait en sorte que quand l'objet avec le gamertag pénètre le chant de vision que j'ai définis, si celui-ci à une animation, il rallentis. Voici mon expérimentation : [Expérimentations Unity Slowmotion et Transition.](Experimentations_huit_heures_quarente_six_minutes) ( pour le slow motion il est visible grace à l'ombre, on sait qu'il rallentis car après l'avoir vu quand il sort de notre champs de vision on vois son ombre rallentir).
 
-Et j'ai ensuite essayer de coder un effet de bruit visuel pour faire ma transition à l'aide d'un canvas. J'ai chercher à créer un canvas transparent et ensuite j'ai cherché à coder une transition qui en 20 seconde créer une nuée de pixel noir qui s'augmente pour créer un fond noir de transition.
+Et j'ai ensuite essayer de coder un effet de bruit visuel ![Bruit transition visuelle](<Capture d'écran 2025-12-01 115906.png>)
+ pour faire ma transition à l'aide d'un canvas. J'ai chercher à créer un canvas transparent et ensuite j'ai cherché à coder une transition qui en 20 seconde créer une nuée de pixel noir qui s'augmente pour créer un fond noir de transition.
 Puis ensuite je me suis interressé au timer, je voulais que le timer reste sur la caméra tous le long du jeu, j'ai donc créer un canvas avec une heure de marquer, j'ai coder l'écriture pour qu'elle passe de 8H à 8h46 en 20 secondes et qu'ensuite elle revienne à 0. 
 J'ai voulu ensuite l'ajouter dans mes scènes, sauf que les transition ne marchait plus, le slowmotion avec le Gametag ne fonctionnait plus, je pense que cela est dû au faite que l'avion que j'ai rassembler dans un game object auquel j'ai ajouter le Gametag n'est pas un objet unique mais un ensemble de module (dans mon expérimentation le cube était un objet unique). Ensuite mes transitions avec les pixels ne voulait pas non plus fonctionné donc j'ai choisi de changer de script pour créer un tremblement de caméra qui donne une sensation comme si l'avion avait des turbulences où que le sol tremblait. J'ai ajouter mon canvas avec mon timer qui lui fonctionne. Et j'ai créer une transition qui fait changer de scène le joueur toute les 19 secondes (donc juste avant que le timer ne viennent à 8h46). 
 
-**Vendredi 5 décembre :**
+**Jeudi 4 et Vendredi 5 décembre :**
 
-Vendredi matin en même temps que la préparation pour mon accrochage, J'ai essayer d'exporter mon projet, ce qui à été plus compliquer que prévu. Mais après quelques temps j'ai réussi à exporter mon projet et donc le voici : [Projet final](8_heures_46_minutes_Projet_Manon_AMIOT)
+Le jeudi matin, j'ai essayer d'ajouter mes expérimentations que j'avais fait sur mon projet dans un autre pc, mais j'ai du réecrire plusieurs script car il ne fonctionnait pas avec mes élèments. J'ai aussi réfléchis à mon accrochage avec Alice qui m'as aidé à réfléchir à qu'est-ce que je voulais faire ressentir lors de mon accrochage. 
+
+Le vendredi matin en même temps que la préparation pour mon accrochage, j'ai essayer d'exporter mon projet avec l'aide de Robin, ce qui à été plus compliquer que prévu. Mais après quelques temps j'ai réussi à exporter mon projet et donc le voici : [Projet final](8_heures_46_minutes_Projet_Manon_AMIOT)
+
+Pour mon accrochage je voulais imprimer une très grande image des bureaux avec l'heure qui défile comme dans mon animation de timer, je voulais poser le casque devant comme pour attirer le joueur à comprendre ce qu'il y a derrière cette simple photo de bureau et cette heure qui défile. Je voulais que le joueur en ressortant du jeu soit encore une fois confronter au jeu par cette image. J'ai choisi de mettre une image un peu sombre et vieilli, pixéliser pour montrer l'ambiance du jeu mais aussi de faire le lien avec l'année 2001. ![Installation de l'image](DSCF3702.JPG) ![Accrochage final](DSCF3732.JPG)
